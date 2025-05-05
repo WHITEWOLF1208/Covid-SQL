@@ -4,7 +4,7 @@
 * Used SQL for analyzing data regarding infection rate and death percentages based on continent, and country. Table were created using Excel. Excel tables were then imported into Tableau for visualization.
 
 
-![ ]([https://github.com/shrike9211/Covid-Data-Analysis/blob/main/Tableau_Images/Final%20Dash.PNG](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Final%20Dash.PNG))
+![ ](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Final%20Dash.PNG))
 
 ## Overview 
 
@@ -16,7 +16,7 @@ Used [SQL Queries](https://github.com/shrike9211/Covid-Data-Analysis/blob/main/C
 
 As of 7/17/2021 over 4 million people died of COVID-19 out of the over 189 million people reported as infected. The death percentage is 2.15%, which means that on a global scale, for every 100 people infected with COVID-19, 2 people die.
 
-![ ](https://github.com/shrike9211/Covid-Data-Analysis/blob/main/Tableau_Images/Covid_Global_Numbers.PNG)
+![ ](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Covid_Global_Numbers.PNG))
 
 Looking at a deeper level; by continents, it is revealed that Europe currently has the highest death toll with over 1 million dead, with other continents close behind. South America is over one million, and North America at over 900,000. Asia’s numbers are perhaps a bit misleading as the sample data had no reported cases in China from the start of the outbreak.
 
