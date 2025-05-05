@@ -4,7 +4,7 @@
 * Used SQL for analyzing data regarding infection rate and death percentages based on continent, and country. Table were created using Excel. Excel tables were then imported into Tableau for visualization.
 
 
-![ ](https://github.com/shrike9211/Covid-Data-Analysis/blob/main/Tableau_Images/Final%20Dash.PNG)
+![ ]([https://github.com/shrike9211/Covid-Data-Analysis/blob/main/Tableau_Images/Final%20Dash.PNG](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Final%20Dash.PNG))
 
 ## Overview 
 
