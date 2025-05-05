@@ -24,12 +24,12 @@ Looking at a deeper level; by continents, it is revealed that Europe currently h
 
 Looking another level lower; by country, I used a Tableau map to visualize the severity of population(s) infected. The darker red areas shows countries with a higher infected population, lighter areas show countries having lower infected population.
 
-![ ].(https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/World_View.PNG)
+![ ](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/World_View.PNG)
 
 Lastly, I created a forecast to see where infection rates may be, 6 months into the future. Looking at the most infected countries, United States is forecasted to have a 15.14% infected populace by March of 2022 and the United Kingdom at 10.55%
 
-![ ].(https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Line_Chart.PNG)
+![ ](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Line_Chart.PNG)
 
 Putting everything in one view.
 
-![ ].(https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Final%20Dash.PNG)
+![ ](https://github.com/WHITEWOLF1208/Covid-SQL/blob/main/Tableau_Images/Final%20Dash.PNG)
